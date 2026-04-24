@@ -1,4 +1,4 @@
-# Welcome to Pey's AI playground
+# Welcome to Pey's playground
 
 ### Quick heads up, this is my journey from nothing to AI Native Engineer (actually back to nothing 🤣 LoL)
 ---
