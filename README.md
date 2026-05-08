@@ -15,10 +15,10 @@ Now? I'm riding the **AI Native Engineer** wave (Fullstack), but with actual int
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Mas-Pey&show_icons=true&theme=gotham&hide_border=true" height="170" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Mas-Pey&show_icons=true&theme=gotham&hide_border=true" height="170" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mas-Pey&layout=compact&theme=gotham&hide_border=true" height="170" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mas-Pey&layout=compact&theme=gotham&hide_border=true" height="170" alt="Top Languages" />
       </td>
     </tr>
   </table>
